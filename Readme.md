@@ -36,4 +36,5 @@ changes on the branch in the repo)
 
 
 ## 4 Github commands I think will use the most in a real project and why.
+
 In a software development project, the 'git clone' command is crucial for initiating a new project or accessing an existing repository, enabling the creation of a local copy of a remote repository on your machine to establish your development environment or facilitate collaboration. The 'git pull' command plays a pivotal role in keeping your local copy synchronized with the remote repository by fetching and merging changes, thus ensuring you're working with the latest code. Complementing this, the 'git add' and 'git commit' commands work in tandem to save local changes and document them with descriptive messages, making your work available for others to collaborate on and preserving it in the project's history. Finally, the 'git push' command serves as the conduit for uploading these changes to the remote repository, fostering effective code sharing and collaborative development among team members, thereby solidifying its integral role in the overall development workflow.
