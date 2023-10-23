@@ -26,12 +26,12 @@ without bringing the changes into the local repository.
 
 - [git pull] -  downloads the changes and merges them into your current branch. (Can be multiple time if there is new
 changes on the branch in the repo)
-- [git add] - Stage the all the file for commit to your local repository by the following command.
+- [git add] - stage the all the file for commit to your local repository by the following command.
 - [git reset (file)] - unstage a file while retaining the changes in working directory
-- [git diff] - diff of what is changed but not stage
-- [git commit -m "Create changes on README file"] - Commit the file that you’ve staged in your local repository.
-- [git push origin main] - Push the changes in your local repository to GitHub
-- [git merge] - The "merge" command is used to integrate changes from another branch.
+- [git diff] - what is changed but not stage
+- [git commit -m "Create changes on README file"] - commit the file that you’ve staged in your local repository.
+- [git push origin main] - push the changes in your local repository to GitHub
+- [git merge] - the "merge" command is used to integrate changes from another branch.
 - [git branch] - list your branches. a * will appear next to the currently active branch
 - [git log] - show all commits in the current branch’s history
 - [git rm (file)] - delete the file from project and stage the removal for commi
